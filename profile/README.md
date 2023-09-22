@@ -11,8 +11,6 @@ Status: active development, upgradeable
 
 Program + SDK: [Public](https://github.com/seabed-labs/pre-authorized-debit)
 
-JS SDK: [Public](https://github.com/dcaf-labs/drip-sdk)
-
 ### Drip v1
 
 A permission-less and composable DCA/TWAP tool for Solana SPL tokens
