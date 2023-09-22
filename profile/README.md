@@ -7,7 +7,7 @@
 
 A public good primitive to allow multiple pre authorized (one time, recurring) debits from a token account. 
 
-Status: Active Development, upgradeable
+Status: active development, upgradeable
 
 Program + SDK: [Public](https://github.com/seabed-labs/pre-authorized-debit)
 
