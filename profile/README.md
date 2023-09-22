@@ -11,13 +11,13 @@ Status: Active development, preparing for open source and program lock
 
 Program: [Private](https://github.com/dcaf-labs/drip-program)
 
-Backend: [Private](https://github.com/dcaf-labs/drip-backend)
+Backend: [Public](https://github.com/dcaf-labs/drip-backend)
 
-Backend API Client: [Public](https://github.com/dcaf-labs/drip-client)
+Backend API Client's: [Public](https://github.com/dcaf-labs/drip-client)
 
-Keeper/Crank: [Private](https://github.com/dcaf-labs/drip-keeper)
+Keeper/Crank: [Public](https://github.com/dcaf-labs/drip-keeper)
 
-Frontend: [Private](https://github.com/dcaf-labs/drip-frontend)
+Frontend: [Public](https://github.com/dcaf-labs/drip-frontend)
 
 JS SDK: [Public](https://github.com/dcaf-labs/drip-sdk)
 
